@@ -1,6 +1,7 @@
 # Password Generator (JavaScript)
 
 Este é um gerador de senhas aleatórias feito com HTML, CSS e JavaScript. Você pode escolher o tamanho da senha e gerar uma nova a cada clique.
+![Demonstração do projeto] (./screenshot.png)
 
 ## Como usar
 
