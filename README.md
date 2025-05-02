@@ -16,5 +16,5 @@ Este é um gerador de senhas aleatórias feito com HTML, CSS e JavaScript. Você
 
 ---
 
-**Autor:** [Seu Nome]  
-**GitHub:** [Seu Perfil]
+**Autor:** Maria Alzira Azevedo Carvalho 
+**GitHub:** mariaalziradev
